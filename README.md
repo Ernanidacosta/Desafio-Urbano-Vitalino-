@@ -1,2 +1,2 @@
 # Desafio-Urbano-Vitalino-
-Desafio tŕcnico para empresa Urbano Vitalino Advogados
+Desafio técnico para empresa Urbano Vitalino Advogados
