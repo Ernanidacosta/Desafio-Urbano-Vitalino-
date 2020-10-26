@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.com/Ernanidacosta/Desafio-Urbano-Vitalino-.svg?branch=main)](https://travis-ci.com/Ernanidacosta/Desafio-Urbano-Vitalino-)
 
-Desafio técnico para vaga de dev.backend Python na Urbano Vitalino Advogados
+Desafio técnico para vaga de desenvolvedor Backend na Urbano Vitalino Advogados
+
+Linguagem utilizada: Python 3.8
 
 Instalação Básica
 
