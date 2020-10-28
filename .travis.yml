@@ -4,7 +4,8 @@ python:
     - 3.8
 
 install:
-    - pip install -q -r requirements-dev.txt
+    - pip install pipenv
+    - pipenv sync --dev
 
 script:
     - flake8
