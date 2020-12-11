@@ -10,6 +10,7 @@ asgiref = "*"
 pytz = "*"
 sqlparse = "*"
 Django = "*"
+csvImporter = "^0.1.3"
 
 [tool.poetry.dev-dependencies]
 flake8 = "*"
