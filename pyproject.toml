@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "desafio-urbano-vitalino"
+version = "0.1"
+description = "desafio-urbano-vitalino"
+authors = ["Ernani da Costa"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+asgiref = "*"
+pytz = "*"
+sqlparse = "*"
+Django = "*"
+
+[tool.poetry.dev-dependencies]
+flake8 = "*"
+mccabe = "*"
+pycodestyle = "*"
+pyflakes = "*"
+ipdb = "*"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
